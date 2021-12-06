@@ -1,0 +1,27 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+    background-color: blanchedalmond
+}
+.text{
+    color:rgb(25, 171, 255);
+}
+.container{
+    display: flex;
+}
+.half_width{
+    width: 80%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    
+
+}
+.anchor{
+    text-decoration: none;
+    
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
